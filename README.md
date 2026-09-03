@@ -1,26 +1,21 @@
-# Machine Learning
+# Machine Learning Archive
 
-A collection of Python machine-learning examples, exercises, datasets, and case studies.
+This repository is the archive and index for the original machine-learning code collection. The topic branches were reorganized into separate repositories for easier navigation.
 
-## Branch organization
+## Case-study repositories
 
-Each topic branch contains a focused README and the code/data for that topic:
+- [Advertising Case Study](https://github.com/aashutoshnangare/advertising-case-study)
+- [Ball Classification Case Study](https://github.com/aashutoshnangare/ball-classification-case-study)
+- [Iris Classification Case Study](https://github.com/aashutoshnangare/iris-classification-case-study)
+- [Titanic Case Study](https://github.com/aashutoshnangare/titanic-case-study)
+- [Breast Cancer Case Study](https://github.com/aashutoshnangare/breast-cancer-case-study)
+- [California Housing Case Study](https://github.com/aashutoshnangare/california-housing-case-study)
+- [Customer Segmentation Case Study](https://github.com/aashutoshnangare/customer-segmentation-case-study)
 
-- [knn](tree/knn) — K-nearest-neighbor examples, user-defined KNN, and wine classification
-- [advertising-case-study](tree/advertising-case-study) — advertising analysis and linear-regression case study
-- [ball-classification-case-study](tree/ball-classification-case-study) — ball classification exercises
-- [iris-classification-case-study](tree/iris-classification-case-study) — Iris classification exercises
-- [decision-trees](tree/decision-trees) — decision-tree classification examples
-- [titanic-case-study](tree/titanic-case-study) — Titanic data preparation, training, evaluation, and model persistence
-- [breast-cancer-case-study](tree/breast-cancer-case-study) — breast-cancer data preparation and classification examples
-- [california-housing-case-study](tree/california-housing-case-study) — California housing regression examples
-- [customer-segmentation-case-study](tree/customer-segmentation-case-study) — Mall Customers K-Means workflow
-- [linear-regression](tree/linear-regression) — introductory linear-regression examples
-- [ensemble-methods](tree/ensemble-methods) — bagging, boosting, random forest, and voting examples
-- [evaluation-metrics](tree/evaluation-metrics) — R-squared and confusion-matrix examples
-- [svm-classification](tree/svm-classification) — SVM classification example
-- [datasets](tree/datasets) — additional standalone datasets
+## Understanding machine-learning codes
+
+- [Machine Learning Understanding Codes](https://github.com/aashutoshnangare/machine-learning-understanding-codes) — KNN, decision trees, linear regression, SVM, evaluation metrics, bagging, boosting, random forest, voting, and supporting datasets.
 
 ## Notes
 
-The examples are educational scripts and may expect Python packages such as pandas, NumPy, matplotlib, scikit-learn, and joblib. Dataset paths in the original scripts are relative to the script directory.
+The examples are educational Python scripts and may require packages such as pandas, NumPy, matplotlib, scikit-learn, and joblib. Dataset paths in the original scripts are relative to the script directory.
